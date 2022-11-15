@@ -1,0 +1,20 @@
+{
+    "git.confirmSync": false,
+    "workbench.colorTheme": "Tokyo Night",
+    "bracketPairColorizer.depreciation-notice": false,
+    "explorer.confirmDelete": false,
+    "tabnine.experimentalAutoImports": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "dart.openDevTools": "flutter",
+    "explorer.confirmDragAndDrop": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "redhat.telemetry.enabled": true,
+    "git.autofetch": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+}
